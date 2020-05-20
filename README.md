@@ -11,7 +11,7 @@
 
 	给定一个整数数组nums和一个目标值target，请你在该数组中找出和为目标值的那两个整数，并返回他们的数组下标。
 
-&emsp;[Code](./0001twoSum.cpp)
+&emsp;[Code](./0001TwoSum.cpp)
 
 # 链表
 
