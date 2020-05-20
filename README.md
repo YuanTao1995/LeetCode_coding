@@ -4,6 +4,7 @@
 # 编程理念和tips
 - 第一遍按照tag来刷，类似高考二轮复习
 - Shorter is better.
+- 试一下第一次提交
 
 # 数组
 
