@@ -1,4 +1,4 @@
-# LeetCode_coding
+# LeetCode_cpp
 不积跬步无以至千里，不积小流无以成江河。坚持每天打卡！[LeetCode](https://leetcode-cn.com/problemset/all/)
 
 # 编程理念和tips
